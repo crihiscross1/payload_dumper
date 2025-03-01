@@ -8,7 +8,7 @@ Script tested on Yandex Amber OTA's (full and incremental) under Linux(but may w
 
 ## Guide
 
-- Make you sure you have Python 3.6 installed.
+- Make you sure you have Python 3.6  installed.
 - Download payload_dumper.py and update_metadata_pb2.py
 - Extract your OTA zip and place payload.bin in the same folder as these files.
 - Open PowerShell, Command Prompt, or Terminal depending on your OS.
